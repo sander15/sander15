@@ -12,9 +12,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" alt="c#" width="60" height="60">
 </p>
-
-### me 90% of the time:
-
-<p>
-  <img src="https://i.ytimg.com/vi/31HfP81oWDI/maxresdefault.jpg" alt="me"
-</p>
