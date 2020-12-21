@@ -32,6 +32,6 @@
 
 ### Stats:
 <p align="center">
-<img src=https://camo.githubusercontent.com/81ac1f81ff745e6f718986b9c13382ec93b03dec43b56056d2d35729bdef0cdd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73616e6465723135262673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666666666662669636f6e5f636f6c6f723d62623261636626746578745f636f6c6f723d6461663764632662675f636f6c6f723d313531353135>
+<img src=https://github-readme-stats.vercel.app/api?username=sander15&show_icons=true&theme=radical>
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sander15&layout=compact&theme=tokyonight>
 </p>
