@@ -10,7 +10,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="cs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="40" style="vertical-align:top; margin:4px">	
